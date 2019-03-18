@@ -52,12 +52,29 @@ tags: android android逆向
 
 ---
 
-	 ps|grep com.songheng.eastnews  
-	com.songheng.eastnews/com.oa.eastfirst.activity.WelcomeActivity
+## tools 环境变量
+
+mac:
+	/Users/xx/Library/Android/sdk/tools/bin
+	archquery         jobb              monkeyrunner      sdkmanager
+	avdmanager        lint              screenshot2       uiautomatorviewer
+
+	/Users/xx/Library/Android/sdk/tools
+	NOTICE.txt        emulator-check    monitor           support
+	android           lib               package.xml
+	bin               miao.xml          proguard
+	emulator          mksdcard          source.properties
+
+	/Applications/AndroidStudio.app/Contents/gradle/gradle-4.10.1/bin
+	gradle     gradle.bat
+---
+
+	 <!-- ps|grep com.songheng.eastnews  
+	com.songheng.eastnews/com.oa.eastfirst.activity.WelcomeActivity -->
 
 	http://adbshell.com/
 
-	/Users/shaomiao/Library/Android/sdk/tools/monitor  
+	<!-- /Users/shaomiao/Library/Android/sdk/tools/monitor   -->
 
 [Android ADB命令?这一次我再也不死记了!【简单说】](https://www.jianshu.com/p/56fd03f1aaae)  
 
