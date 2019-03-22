@@ -3,20 +3,20 @@ title: 'tea9的博客'
 description: '心中有光の孩子'
 s-description: '努力活着'
 keyword: 'tea9,tea9的博客,android,编程,安全'
-url: 'http://tea9.github.io/v2' # your host
+url: 'http://tea9.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: '/v2'
+baseurl: '/'
 
 # Navigation links
 nav:
   #home: '/sakura.html'
-  home: '/v2'
-  categories: '/v2/categories.html'
+  home: '/'
+  categories: '/categories.html'
   #archives: '/archives.html'
   #tags: '/tags.html'
   #about: '/about'
-  links: '/v2/links/'
+  links: '/links/'
   #donate: '/appreciate/'
   #message: '/message/'
   #yoone: '/yoone'
@@ -30,14 +30,14 @@ footer:
 author: 'tea9'
 nickname: 'tea9'
 bio: '心中有光の孩子'
-avatar: '/v2/assets/img/profile.png'
+avatar: '/assets/img/profile.png'
 
 #about_title: '关于我'
 #about_link: '/about'
 #ap_reciate: '打赏我'
 #ap_link: '/appreciate'
 #message_title: '来留言'
-message_link: '/v2/message'
+message_link: '/message'
 #links_title: '加友链'
 #links_link: '/links'
 
