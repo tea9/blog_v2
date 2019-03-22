@@ -3,7 +3,7 @@
 最后更新时间**2019-03-21**
 
 
-Welcome Visit for Online version [tea9](https://tea9.github.io/)
+Welcome Visit for Online version [tea9](https://tea9.github.io/v1)
 
 Changed Above  
 
@@ -11,7 +11,7 @@ Changed Above
 
 ---
 
-欢迎访问在线版本。 [tea9](https://tea9.github.io/)   
+欢迎访问在线版本。 [tea9](https://tea9.github.io/v1)   
 已经改变了  
 改成hexo版本了  
 
